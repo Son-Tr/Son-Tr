@@ -9,4 +9,4 @@ I'm a passionate developer who loves to create awesome software and solve intere
 
 ## 🧑‍💻 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/sontr/)
-- [Personal Website](https://sontrdev.com/)
+- [sontrdev.com](https://sontrdev.com/)
