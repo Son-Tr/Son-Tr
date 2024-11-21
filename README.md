@@ -1,5 +1,4 @@
 # Hi there, I'm Son 👋
-
 I'm a passionate developer who loves to create awesome software and solve interesting challenges. Currently learning and building with JavaScript, React, and Redux.
 - 💬 Ask me about **JavaScript** and **React**
 - 👯 I’m open to collaborate on **web development** projects
@@ -9,6 +8,5 @@ I'm a passionate developer who loves to create awesome software and solve intere
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap,figma)](https://skillicons.dev)
 
 ## 🧑‍💻 Let's Connect!
-
 - [LinkedIn](https://www.linkedin.com/in/sontr/)
 - [Personal Website](https://sontrdev.com/)
