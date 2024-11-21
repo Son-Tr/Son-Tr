@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Son 👋
 
+I'm a passionate developer who loves to create awesome software and solve interesting challenges. Currently learning and building with JavaScript, React, and Redux.
+
+
+- 💬 Ask me about JavaScript and React
+- All of my projects are available at https://sontrdev.com/
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,sass,bootstrap,figma)](https://skillicons.dev)
 <!--
 **Son-Tr/Son-Tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
