@@ -1,24 +1,14 @@
 # Hi there, I'm Son 👋
 
 I'm a passionate developer who loves to create awesome software and solve interesting challenges. Currently learning and building with JavaScript, React, and Redux.
-
-
-- 💬 Ask me about JavaScript and React
-- All of my projects are available at https://sontrdev.com/
+- 💬 Ask me about **JavaScript** and **React**
+- 👯 I’m open to collaborate on **web development** projects
+- 📫 How to reach me: [sontran.kh1502@gmail.com](mailto:sontran.kh1502@gmail.com)
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,sass,bootstrap,figma)](https://skillicons.dev)
-<!--
-**Son-Tr/Son-Tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/sontr/)
+- [Personal Website](https://sontrdev.com/)
