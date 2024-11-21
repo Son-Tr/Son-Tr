@@ -6,7 +6,7 @@ I'm a passionate developer who loves to create awesome software and solve intere
 - 📫 How to reach me: [sontran.kh1502@gmail.com](mailto:sontran.kh1502@gmail.com)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,sass,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap,figma)](https://skillicons.dev)
 
 ## 🧑‍💻 Let's Connect!
 
